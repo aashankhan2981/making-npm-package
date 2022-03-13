@@ -1,0 +1,22 @@
+{
+  "name": "testing-creating-npm",
+  "version": "1.0.0",
+  "description": "first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aashankhan2981/making-npm-package.git"
+  },
+  "keywords": [
+    "AKS"
+  ],
+  "author": "Aashan khan swati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aashankhan2981/making-npm-package/issues"
+  },
+  "homepage": "https://github.com/aashankhan2981/making-npm-package#readme"
+}
